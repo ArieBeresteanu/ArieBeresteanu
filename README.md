@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@runnervgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@runnervgn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arie-beresteanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="arie-beresteanu" height="30" width="40" /></a>
+
+<a href="https://twitter.com/@runnervgn" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="@runnervgn" height="30" width="40" /></a>
+
+ <a href="https://linkedin.com/in/arie-beresteanu" target="blank"><img align="center" src="http://www.pngall.com/linkedin-png/download/13514" alt="arie-beresteanu" height="30" width="40" /></a>
 </p>
 

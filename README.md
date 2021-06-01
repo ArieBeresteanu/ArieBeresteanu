@@ -1,20 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arie Beresteanu</h1>
+<h3 align="center">Associate Professor of Economics, University of Pittsburgh</h3>
 
-<!--
-**ArieBeresteanu/ArieBeresteanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Partial Identification for Incomplete Preferences**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [Econometrics, Applied Industrial Organization](Econometrics, Applied Industrial Organization)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)https://github.com/ArieBeresteanu
+- 📄 Know about my experiences [https://www.pitt.edu/~arie/PDFs/beresteanu_vita.pdf](https://www.pitt.edu/~arie/PDFs/beresteanu_vita.pdf)
 
-About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@runnervgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@runnervgn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arie-beresteanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="arie-beresteanu" height="30" width="40" /></a>
+</p>
+

@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://github.com/ArieBeresteanu?style=for-the-badge&logo=GitHub&logoColor=white)
 
 About Me

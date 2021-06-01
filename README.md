@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> </p>
 
-- 🔭 I’m currently working on **Partial Identification for Incomplete Preferences**
+- 🔭 I’m currently working on **Partial identification for Incomplete Preferences, Optimal Sequencing in Between-Subject Experimental Designs**
 
-- 📝 I regularly write articles on [Econometrics, Applied Industrial Organization](Econometrics, Applied Industrial Organization)
+- 📝 I regularly write articles on: Econometrics, Applied Industrial Organization
 
 - 📄 Know about my experiences [Vita](https://www.pitt.edu/~arie/PDFs/beresteanu_vita.pdf)
 

@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arie Beresteanu</h1>
 <h3 align="center">Associate Professor of Economics, University of Pittsburgh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> 
+ <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrmUbOOifPd3P9uoZamoqGg?style=social">
+</p>
 
 - 🔭 I’m currently working on **Partial identification for Incomplete Preferences, Optimal Sequencing in Between-Subject Experimental Designs**
 

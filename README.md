@@ -8,7 +8,7 @@
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrmUbOOifPd3P9uoZamoqGg?style=social">
  </a>
  
- <a href="url=https://twitter.com/Runnervgn">
+ <a href="https://twitter.com/Runnervgn">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRunnervgn">
  </a>
 </p>

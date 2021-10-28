@@ -4,7 +4,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> 
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrmUbOOifPd3P9uoZamoqGg?style=social">
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRunnervgn">
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Runnervgn">
 </p>
 
 - 🔭 I’m currently working on **Partial identification for Incomplete Preferences, Optimal Sequencing in Between-Subject Experimental Designs**

@@ -4,11 +4,11 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> 
  
- <a href="https://www.youtube.com/channel/UCrmUbOOifPd3P9uoZamoqGg">
+ <a href="https://www.youtube.com/channel/UCrmUbOOifPd3P9uoZamoqGg" target="_blank">
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrmUbOOifPd3P9uoZamoqGg?style=social">
  </a>
  
- <a href="https://twitter.com/Runnervgn">
+ <a href="https://twitter.com/Runnervgn" target="_blank">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRunnervgn">
  </a>
 </p>

@@ -4,7 +4,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=arieberesteanu&label=Profile%20views&color=0e75b6&style=flat" alt="arieberesteanu" /> 
  
- <a href="https://www.youtube.com/channel/UCrmUbOOifPd3P9uoZamoqGg" target="_blank">
+ <a href="https://www.youtube.com/channel/UCrmUbOOifPd3P9uoZamoqGg" target="_blank" rel="nofollow">
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrmUbOOifPd3P9uoZamoqGg?style=social">
  </a>
  

@@ -10,7 +10,7 @@
  
 </p>
  
-- 🔭 I’m currently working on **Partial identification for Incomplete Preferences [Link](https://arxiv.org/abs/2108.06282), Optimal Sequencing in Between-Subject Experimental Designs**
+- 🔭 I’m currently working on **Partial identification for Incomplete Preferences ([Link](https://arxiv.org/abs/2108.06282)), Optimal Sequencing in Between-Subject Experimental Designs**
 
 - 📝 I regularly write articles on: Econometrics, Applied Industrial Organization
 

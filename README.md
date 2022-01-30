@@ -14,7 +14,9 @@
 
 - 📝 I regularly write articles on: Econometrics, Applied Industrial Organization
 
-- 📄 Know about my experiences: [Vita](https://www.pitt.edu/~arie/PDFs/beresteanu_vita.pdf)
+- 📄 Know about my experiences: [Vita](https://sites.pitt.edu/~arie/PDFs/beresteanu_vita.pdf)
+
+- My homepage at [Pitt](https://sites.pitt.edu/~arie/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

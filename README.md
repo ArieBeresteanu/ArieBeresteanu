@@ -12,7 +12,7 @@
  
 - 🔭 I’m currently working on **Partial identification for Incomplete Preferences ([paper](https://arxiv.org/abs/2108.06282),[video](https://youtu.be/XsG7KLG7jUA)) and Optimal Sequencing in Between-Subject Experimental Designs**
 
-- 📝 I regularly write articles on: Econometrics, Applied Industrial Organization
+- 📝 Fields: Econometrics, Applied Industrial Organization
 
 - 📄 My resume: [Vita](https://sites.pitt.edu/~arie/PDFs/beresteanu_vita.pdf)
 

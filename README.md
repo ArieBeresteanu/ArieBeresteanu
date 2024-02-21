@@ -25,4 +25,3 @@
 <a href="https://www.linkedin.com/in/arie-beresteanu-5b9b0013/" target="blank"><img align="center" src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-File.png" alt="arie-beresteanu" height="30" width="40" /></a>
  <a href="https://scholar.google.com/citations?user=PHgD3DgAAAAJ&hl=en" target="blank"><img align="center" src="https://d2.alternativeto.net/dist/icons/google-scholar_98212.png?width=64&height=64&mode=crop&upscale=false" alt="Google Scholar" height="30" width="40" /></a>
 </p>
-
